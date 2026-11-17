@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationgreenbay.com/sitemap.xml
